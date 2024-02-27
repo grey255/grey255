@@ -1,37 +1,24 @@
-<h1 align="left">Hello 👋 </h1>
+# 💫 About Me:
+🔭 I’m currently working on infrastructure automation using Ansible<br>👯 I’m looking to collaborate on infrastructure automation<br>🤝 I’m looking to collaborate on infrastructure automation, linux system administration, and network administration<br>🌱 I’m currently learning advanced networking concepts CCNP/CCIE<br>💬 Ask me about linux, Cisco and infrastructure automation<br>
 
-###
 
-<p align="left">My name is Grey and I'm an automation engineer, from Virginia</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/greygaines) 
 
-###
+# 💻 Tech Stack:
+![ANSIBLE](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=grey255&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=grey255&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=grey255&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h2 align="left">About me</h2>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=grey255&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-###
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-<p align="left">✨ System, database and network administrator for over 10 years<br>📚 I'm currently pursuing my CCNP <br>🎯 Goals: To provide sound, cost-effective and efficient infrastructure automation solutions to institutions<br> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=grey255&icon=0&color=0)](https://visitcount.itsvg.in)
 
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
-  <img width="12" />
-  
-</div>
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
