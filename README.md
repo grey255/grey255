@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on infrastructure automation using Ansible<br>👯 I’m looking to collaborate on infrastructure automation<br>🤝 I’m looking to collaborate on infrastructure automation, linux system administration, and network administration<br>🌱 I’m currently learning advanced networking concepts CCNP/CCIE<br>💬 Ask me about linux, Cisco and infrastructure automation<br>
+🔭 I’m currently working on infrastructure automation using Ansible<br>👯 I’m looking to collaborate on network and systems automation<br>🤝 I’m looking to collaborate on infrastructure automation, linux system administration, and network administration<br>🌱 I’m currently learning advanced networking concepts CCNP/CCIE<br>💬 Ask me about linux, Cisco and infrastructure automation<br>
 
 
 ## 🌐 Socials:
